@@ -1,9 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
+import HomePage from './pages/HomePage';
 
 export default function App() {
   return (
-    <h1>opa</h1>
+    <HomePage></HomePage>
   );
 }
 
