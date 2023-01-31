@@ -1,8 +1,8 @@
-import home from '../../assets/icones/home.png'
-import maisCurtidas from '../../assets/icones/mais-curtidas.png'
-import maisVistas from '../../assets/icones/mais-vistas.png'
-import novas from '../../assets/icones/novas.png'
-import surpreendame from '../../assets/icones/surpreenda-me.png'
+import home from '../../assets/icons/home.png'
+import maisCurtidas from '../../assets/icons/mais-curtidas.png'
+import maisVistas from '../../assets/icons/mais-vistas.png'
+import novas from '../../assets/icons/novas.png'
+import surpreendame from '../../assets/icons/surpreenda-me.png'
 
 import styles from './Menu.module.scss';
 
